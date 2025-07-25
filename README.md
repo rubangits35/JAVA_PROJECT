@@ -179,8 +179,6 @@ Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
 Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
-
-
 ### The Screenshots of some of the  webPages of this project are Here:
 
 1. Login Page
@@ -218,8 +216,3 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 13. Add Trains By Admin
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
-
-
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
