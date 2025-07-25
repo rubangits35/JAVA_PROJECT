@@ -49,15 +49,6 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Servlet
 - Oracle ( SQL )
 
-### ==== Software And Tools Required ======
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-- : Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
-
 ### ========== Dummy Database Initialization ===========
 
 STEP 1: Open SQL Plus OR SQL Developer
